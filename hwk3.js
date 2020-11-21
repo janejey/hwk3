@@ -127,19 +127,6 @@
 // }
 // console.log(genNewArr([[3, 4, 5], [1, 0, 0], [4, 5, 4], [8, 8, -1]]));
 
-
-// //9
-// let size = 9;
-// let brush = '*';
-// let result = '';
-// for (let i = 0; i < size; i++) {
-//   let row = '';
-//   for (let j = 0; j < size; j++) {
-//     if (i == j || i+j == size+1) {row += brush}
-//     else { row += ''}
-//   } result += row + '\n'
-// } console.log(result)
-
 // //9
 // function drawStar(size) {
 //   let rowsLength = size*2-1;
